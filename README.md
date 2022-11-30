@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emre Banzaroğlu
 - 👀 I’m interested in Full-Stack Developer
-- 🌱 I’m currently learning React, Fluent API, HTML5, CSS3, Bootstrap, OOP, Asp.Net Core MVC
+- 🌱 I’m currently learning  HTML5, CSS3, Bootstrap, C#, Asp.Net Core MVC, JavaScript, React, Fluent API
 - 📫 How to reach me emrebanzar@gmail.com
 
 <h3 align="center">A passionate software developer</h3>
